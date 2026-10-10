@@ -1,0 +1,6 @@
+In-app Browser JS state was preserved. Completed actions were not rolled back; refresh stale UI handles and continue only the remaining work.
+{"code":"BROWSER_NOT_READY","method":"browser_press_key","callIndex":2,"nextAction":"inspect_before_retry"}
+ERROR BROWSER_NOT_READY
+{"control":{"documentRevision":"rev_5a0e99b0-20d2-469d-b87b-c21bb201a1ff","error":{"code":"BROWSER_NOT_READY","retryable":true},"requiresSnapshot":false,"status":"error","tabId":"tab_22320b86-02ab-4398-9bb6-8db3fdc2c32f"},"kind":"error","schema":"manus.browser/v1"}
+ERROR BROWSER_NOT_READY
+{"control":{"documentRevision":"rev_5a0e99b0-20d2-469d-b87b-c21bb201a1ff","error":{"code":"BROWSER_NOT_READY","retryable":true},"requiresSnapshot":false,"status":"error","tabId":"tab_22320b86-02ab-4398-9bb6-8db3fdc2c32f"},"kind":"error","schema":"manus.browser/v1"}
